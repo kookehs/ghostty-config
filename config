@@ -1,0 +1,6 @@
+cursor-style = block
+cursor-style-blink = false
+font-family = FiraCode Nerd Font Mono Ret
+shell-integration-features = no-cursor
+theme = tokyonight
+window-colorspace = display-p3
